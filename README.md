@@ -1,1 +1,1 @@
-# Predire-le-prix-de-vente-de-maisons-a-l-aide-d-un-modele-de-regression
+# Prédire le prix de vente de maisons à l'aide d'un modèle de régression
